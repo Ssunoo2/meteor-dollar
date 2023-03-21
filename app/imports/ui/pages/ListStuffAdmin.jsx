@@ -32,6 +32,7 @@ const ListStuffAdmin = () => {
                 <th>Name</th>
                 <th>Quantity</th>
                 <th>Condition</th>
+                <th>Value</th>
                 <th>Owner</th>
               </tr>
             </thead>

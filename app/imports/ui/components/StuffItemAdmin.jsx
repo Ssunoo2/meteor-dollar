@@ -7,6 +7,7 @@ const StuffItemAdmin = ({ stuff }) => (
     <td>{stuff.name}</td>
     <td>{stuff.quantity}</td>
     <td>{stuff.condition}</td>
+    <td>{stuff.value}</td>
     <td>{stuff.owner}</td>
   </tr>
 );
